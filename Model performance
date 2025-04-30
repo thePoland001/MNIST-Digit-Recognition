@@ -1,0 +1,15 @@
+Epoch 1/1000: Training accuracy: 0.1030, Testing accuracy: 0.1058
+Epoch 100/1000: Training accuracy: 0.7840, Testing accuracy: 0.7912
+Epoch 200/1000: Training accuracy: 0.8568, Testing accuracy: 0.8616
+Epoch 300/1000: Training accuracy: 0.8797, Testing accuracy: 0.8853
+Epoch 400/1000: Training accuracy: 0.8904, Testing accuracy: 0.8959
+Epoch 500/1000: Training accuracy: 0.8973, Testing accuracy: 0.9018
+Epoch 600/1000: Training accuracy: 0.9026, Testing accuracy: 0.9069
+Epoch 700/1000: Training accuracy: 0.9062, Testing accuracy: 0.9094
+Epoch 800/1000: Training accuracy: 0.9093, Testing accuracy: 0.9116
+Epoch 900/1000: Training accuracy: 0.9122, Testing accuracy: 0.9144
+Epoch 1000/1000: Training accuracy: 0.9150, Testing accuracy: 0.9168
+
+Final Results:
+Training accuracy: 0.9150
+Testing accuracy: 0.9168
